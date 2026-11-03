@@ -1,0 +1,10 @@
+{
+  "name": "EduHire-AI",
+  "description": "Advanced AI-powered interview preparation platform with adaptive follow-ups, resume analysis, coding simulator, and voice interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
